@@ -5,7 +5,8 @@
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
-		"prepare": "mv incriminated-package/ node_modules/incriminated-package"
+		"prepare": "mv incriminated-package/ node_modules/incriminated-package",
+		"build": "tsc"
 	},
 	"keywords": [],
 	"author": "",
