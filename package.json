@@ -1,0 +1,16 @@
+{
+	"name": "tsc-libcheck",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"prepare": "mv incriminated-package/ node_modules/incriminated-package"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"typescript": "^5.8.3"
+	}
+}

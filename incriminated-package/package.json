@@ -1,0 +1,6 @@
+{
+	"name": "incriminated-package",
+	"types": "index.ts",
+	"module": "dist/index.js",
+	"type": "module"
+}
